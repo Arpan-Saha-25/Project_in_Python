@@ -9,7 +9,7 @@ from openai import OpenAI
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()     # Object Creation
-newsapiKey = "5681260aba9b44b6acf274d85b85089c"
+newsapiKey = "xxxxxxx"
 
 # Speaks the provided text 
 def speak(text):
